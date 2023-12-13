@@ -1,0 +1,8 @@
+public class Sub{
+int c;
+public int sub(int a, int b){
+
+ a+b=c;
+return c;
+}}
+
